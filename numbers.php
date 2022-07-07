@@ -84,8 +84,8 @@ echo '<br>';
 $number=10.123456789;
 echo number_format($number,2,'.','.').'<br>';
 
-;//https://www.w3schools.com/php/func_string_number_format.asp
-https://www.php.net/manual/en/function.number-format.php
+//https://www.w3schools.com/php/func_string_number_format.asp
+//https://www.php.net/manual/en/function.number-format.php
 ?>
 
 
