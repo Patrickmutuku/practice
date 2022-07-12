@@ -17,9 +17,9 @@
         $marks["Jane"]="Good";
 
         echo "Patrick has an".$marks["Patrick"]."grade<br>";
-        echo "John has an".$marks["John"]."grade<br>";
-        echo "Jane has an".$marks["Jane"]."grade<br>";
-        
+        echo "John has a".$marks["John"]."grade<br>";
+        echo "Jane has a".$marks["Jane"]."grade<br>";
+
         ?>
     </body>
 </html>
